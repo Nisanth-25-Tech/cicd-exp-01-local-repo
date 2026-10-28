@@ -14,6 +14,10 @@ This project uses a Decision Tree classifier to classify Iris flowers into three
 - Accuracy and classification report.
 - Prediction of flower species.
 
+## Applications
+- Used in Advanced data processing
+- Used in Decision Algos
+
 ## Requirements
 - Python 3
 - Scikit-learn
