@@ -47,3 +47,5 @@ if __name__ == "__main__":
     prediction = classifier.predict([X_test[0]])
     print("Predicted flower:",
           iris.target_names[prediction[0]])
+
+print("Algorithm: Decision Tree Classification")
